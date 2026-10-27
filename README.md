@@ -315,7 +315,7 @@ Ensure you have the following installed:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/thunderstorm009/complete_travel_management_system_porikroma.git
+git clone https://github.com/alam-shaheedul/Porikroma.git
 cd complete_travel_management_system_porikroma
 ```
 
@@ -725,9 +725,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Faizul**
-- GitHub: [@thunderstorm009](https://github.com/thunderstorm009)
-- Email: abrar.lol789@gmail.com
+**Shaheedul**
+- GitHub: - GitHub: [@alam-shaheedul](https://github.com/alam-shaheedul)
+- Email: shaheedulalam15@gmail.com
 
 ---
 
@@ -743,7 +743,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email abrar.lol789@gmail.com or open an issue in the GitHub repository.
+For support, email shaheedulalam15@gmail.com or open an issue in the GitHub repository.
 
 ---
 
